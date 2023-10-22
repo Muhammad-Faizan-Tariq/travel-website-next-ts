@@ -1,1 +1,2 @@
-# travel-website-next-ts
+## TODO
+- Add Favicon.ico
